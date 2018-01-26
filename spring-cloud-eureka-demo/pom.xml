@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.latte.spring.cloud</groupId>
+	<groupId>com.latte.spring.cloud.demo</groupId>
 	<artifactId>spring-cloud-eureka-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>spring-cloud-eureka-demo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Cloud Demo</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
